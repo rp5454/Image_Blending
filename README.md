@@ -1,4 +1,4 @@
-# my-app
+This project integrates modern web technologies (React.js, Node.js, Python) to create an interactive and user-friendly application. The use of OpenCV for image processing, combined with efficient backend handling using Express and multer, ensures a seamless user experience. Optimization strategies like asynchronous processing and static file serving contribute to the application’s performance and responsiveness.
 
 ## Project setup
 ```
@@ -20,5 +20,4 @@ npm run build
 npm run lint
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+
